@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Yongqiao 👋</h1>
 
 <p align="center">
-  <b>Mobile & Full-Stack Developer · Campus Safety Advocate · University Malaya</b>
+  <b>Mobile & Full-Stack Developer · University Malaya</b>
 </p>
 
 <p align="center">
@@ -20,11 +20,12 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Computer Science student at **University Malaya**
-- 🛡️ Passionate about building apps that make people **safer and more connected**
-- 📱 I build cross-platform mobile apps with **Flutter** and power them with **Node.js** backends
-- 🤖 Interested in **AI/ML**, real-time systems, and community-driven tech
-- 🌱 Currently exploring advanced analytics, offline-first architecture, and multi-campus expansions
+- 🎓 Computer Science student at **University Malaya** · Dean's List
+- 🏆 4x National Hackathon Winner — **CodeFest · Cursor · CodeNection · China Mobile AI Agent**
+- 🎤 Featured speaker at **Rye & Cursor LLM Talk** — sharing real-world AI agent development
+- 📱 Full-Stack & Mobile Developer building with **Flutter, Node.js, and Next.js**
+- 🤖 Passionate about **AI agents, real-time systems**, and tech that solves real problems
+- 🚀 Currently scaling projects with **DevOps practices** — Docker, Kubernetes & CI/CD pipelines
 
 ---
 
