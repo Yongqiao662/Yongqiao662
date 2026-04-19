@@ -22,7 +22,7 @@
 
 - 🎓 Computer Science student at **University Malaya** · Dean's List
 - 🏆 4x National Hackathon Winner — **CodeFest · Cursor · CodeNection · China Mobile AI Agent**
-- 🎤 Featured speaker at **Rye & Cursor LLM Talk** — sharing real-world AI agent development
+- 🎤 Featured speaker at **Ryt Bank & Cursor LLM Talk** — sharing real-world AI agent development
 - 📱 Full-Stack & Mobile Developer building with **Flutter, Node.js, and Next.js**
 - 🤖 Passionate about **AI agents, real-time systems**, and tech that solves real problems
 - 🚀 Currently scaling projects with **DevOps practices** — Docker, Kubernetes & CI/CD pipelines
